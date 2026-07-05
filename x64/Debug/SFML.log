@@ -1,0 +1,14 @@
+﻿  Graphics.cpp
+C:\Users\DELL\Desktop\Code\SFML\SFML\Graphics.cpp(57,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\DELL\Desktop\Code\SFML\SFML\Graphics.cpp(57,58): warning C4244:         with
+C:\Users\DELL\Desktop\Code\SFML\SFML\Graphics.cpp(57,58): warning C4244:         [
+C:\Users\DELL\Desktop\Code\SFML\SFML\Graphics.cpp(57,58): warning C4244:             T=float
+C:\Users\DELL\Desktop\Code\SFML\SFML\Graphics.cpp(57,58): warning C4244:         ]
+C:\Users\DELL\Desktop\Code\SFML\SFML\Graphics.cpp(57,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\DELL\Desktop\Code\SFML\SFML\Graphics.cpp(57,38): warning C4244:         with
+C:\Users\DELL\Desktop\Code\SFML\SFML\Graphics.cpp(57,38): warning C4244:         [
+C:\Users\DELL\Desktop\Code\SFML\SFML\Graphics.cpp(57,38): warning C4244:             T=float
+C:\Users\DELL\Desktop\Code\SFML\SFML\Graphics.cpp(57,38): warning C4244:         ]
+C:\Users\DELL\Desktop\Code\SFML\SFML\Graphics.cpp(79,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Desktop\Code\SFML\SFML\Graphics.cpp(80,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFML.vcxproj -> C:\Users\DELL\Desktop\Code\SFML\x64\Debug\SFML.exe
